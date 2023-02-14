@@ -22,6 +22,9 @@ public class Main {
         System.out.println("Lanche 3");
         lanche3=entrada.nextInt();
 
+        //finalizando as entradas
+        entrada.close();
+
         //processamento
         soma_lanches=lanche1+lanche2+lanche3;
 
