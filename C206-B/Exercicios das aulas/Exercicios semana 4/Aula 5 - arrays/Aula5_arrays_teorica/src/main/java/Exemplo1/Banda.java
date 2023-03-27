@@ -1,6 +1,6 @@
 package Exemplo1;
 
-public class Bnada {
+public class Banda {
     //atributos
     String nome_banda;
     String genero_banda;
@@ -15,7 +15,7 @@ public class Bnada {
     Musica[] musicas = new Musica[10];
 
     //metodo construtor
-    public Bnada(String nome_banda, String genero_banda) {
+    public Banda(String nome_banda, String genero_banda) {
         this.nome_banda = nome_banda;
         this.genero_banda = genero_banda;
     }
@@ -31,7 +31,10 @@ public class Bnada {
     }
 
     public void mostraInfo() {
-
+        System.out.println("Nome da banda: "+this.nome_banda);
+        System.out.println("genero da banda: "+this.genero_banda);
+        System.out.println("nome do empresario: "+this.empresarios.nome_empresario);
+        System.out.println("nome do empresario: "+this.empresarios.cnpj);
 
     }
 }

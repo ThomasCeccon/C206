@@ -1,2 +1,6 @@
-package Arrays;public class Bloco {
+package Arrays;
+
+public class Bloco {
+
+
 }

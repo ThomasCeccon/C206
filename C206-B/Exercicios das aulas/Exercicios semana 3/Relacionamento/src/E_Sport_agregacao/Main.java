@@ -1,4 +1,4 @@
-package E_Sport;
+package E_Sport_agregacao;
 
 import java.util.Scanner;
 

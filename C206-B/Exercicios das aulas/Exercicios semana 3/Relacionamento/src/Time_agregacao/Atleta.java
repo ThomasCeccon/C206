@@ -1,4 +1,4 @@
-package Time;
+package Time_agregacao;
 
 public class Atleta {
     //atributos

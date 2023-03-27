@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Conta {
+public class Conta {
+   //declaracao das variaveis
+    String nome;
+    int numero;
+
 }

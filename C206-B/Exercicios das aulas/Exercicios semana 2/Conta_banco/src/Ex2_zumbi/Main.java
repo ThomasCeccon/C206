@@ -1,2 +1,5 @@
-package Ex2_zumbi;public class Main {
+package Ex2_zumbi;
+
+public class Main {
+
 }

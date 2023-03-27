@@ -1,2 +1,10 @@
-package Exemplo1;public class Membro {
+package Exemplo1;
+
+public class Membro {
+
+    //atributos
+    String nome;
+    String funcao;
+
+    //metodos
 }

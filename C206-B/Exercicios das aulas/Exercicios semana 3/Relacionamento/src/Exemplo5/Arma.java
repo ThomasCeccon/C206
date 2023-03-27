@@ -1,3 +1,5 @@
+package Exemplo5;
+
 public class Arma {
     //atributos
     String nome;

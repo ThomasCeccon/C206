@@ -1,3 +1,7 @@
+package Exemplo5;
+
+import Exemplo5.Arma;
+
 public class Personagem {
     //atributos
     String nome;

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bbd43b9-215c-4e6e-b3ff-91dcadd6d5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Ex2_zumbi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Ex2_zumbi/Zumbi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Ex3_Zumbi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Ex3_Zumbi/Zumbi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Ex4_Zumbi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Ex4_Zumbi/Zumbi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Estudando/Transferir/src/Transferir_dinheiro/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Referencia/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula 4 Introducao a orientacao a objetos/Aula4/src/main/java/POO/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula 4 Introducao a orientacao a objetos/Aula4/src/main/java/Relacionamento_classes/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula 4 Introducao a orientacao a objetos/Aula4/src/main/java/Relacionamento_classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula 4 Introducao a orientacao a objetos/Aula4/src/main/java/Relacionamento_classes/Nave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Conta/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercicios semana 2/Conta_banco/src/Conta/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2Mh9fsu4mfih9uwqmvxGwxQm48v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bbd43b9-215c-4e6e-b3ff-91dcadd6d5f0" name="Changes" comment="" />
+      <created>1678209053466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678209053466</updated>
+    </task>
+    <servers />
+  </component>
+</project>
