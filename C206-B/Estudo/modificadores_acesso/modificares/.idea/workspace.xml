@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc037ec-373b-480d-a68b-90d19989dba5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/.idea/Exercicio semana 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicio2/Ex2_pacote_static/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicio2/Ex2_pacote_static/src/br/inatel/cdg/bloco/Bloco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicio2/Ex2_pacote_static/src/br/inatel/cdg/conversor/Conversor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicio2/Ex2_pacote_static/src/br/inatel/cdg/jogador/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/Estudo/Estudo/src/Heranca/Engenheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/Estudo/Estudo/src/Heranca/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/Estudo/Estudo/src/Heranca/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/Estudo/Estudo/src/Private/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/Estudo/Estudo/src/Static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/exercicio_aula/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/exercicio_aula/src/br/inatel/cdg/inimigo/Asteroide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/exercicio_aula/src/br/inatel/cdg/jogador/Nave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Pacotes/Aula6_pacotes/Aula6_pacotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Pacotes/Aula6_pacotes/src/BR/INATEL/CDG/MATEMATICA/Matematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Pacotes/Aula6_pacotes/src/BR/INATEL/CDG/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Pacotes/Aula6_pacotes/src/BR/INATEL/CDG/outramatematica/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Pacotes/Aula6_pacotes/src/BR/INATEL/CDG/outramatematica/Matematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Pacotes/Pacotes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/modificador_estatico/Modificador_statico/Modificador_statico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/modificador_estatico/modificador_estatico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 6/Heranca/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 6/Heranca/src/br/inatel/cdg/brownie/Brownie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 6/Heranca/src/br/inatel/cdg/brownie/BrownieCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 6/Heranca/src/br/inatel/cdg/brownie/BrownieNutella.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula6_modi_acesso/Aula6/src/Exercitando/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula6_modi_acesso/Aula6/src/Exercitando/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula6_modi_acesso/Aula6/src/Exercitando/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula6_modi_acesso/Aula6/src/Membro_statico/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula6_modi_acesso/Aula6/src/Salario_membro_statico_private/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula6_modi_acesso/Aula6/src/Salario_membro_statico_private/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Aula7_herenca/src/Heranca/Arquiteto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Aula7_herenca/src/Heranca/Engenheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Aula7_herenca/src/Heranca/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Aula7_herenca/src/Heranca/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Exercicios/Ex_heranca/src/br/inatel/cdg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Exercicios/Ex_heranca/src/br/inatel/cdg/funcionario/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../C206-L6/Aula7_Herenca/Exercicios/Ex_heranca/src/br/inatel/cdg/gerente/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/PCMANIA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Exercicios das aulas/Exercicio semana 5/Exercicios/exercicio_aula/exercicio_aula.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/src/PCmania/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/src/PCmania/Computador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/src/PCmania/HardwareBasico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/src/PCmania/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/src/PCmania/MemoriaUSB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PC_MANIA/PCMANIA/src/PCmania/SistemaOperacional.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2OEi3qzEaEhtSsLxPISZpRFhdbZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc037ec-373b-480d-a68b-90d19989dba5" name="Changes" comment="" />
+      <created>1681131946537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681131946537</updated>
+    </task>
+    <servers />
+  </component>
+</project>

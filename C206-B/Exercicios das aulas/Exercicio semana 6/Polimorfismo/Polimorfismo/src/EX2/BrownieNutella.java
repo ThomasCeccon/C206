@@ -1,0 +1,19 @@
+package EX2;
+
+public class BrownieNutella extends Brownie {
+    //metodo construtor
+    public BrownieNutella(String nome, double preco, String sabor) {
+        super(nome, preco, sabor);
+    }
+
+    //metodos
+    public void adiconaNutella(){
+        System.out.println("Adicionar mais nutella!");
+    }
+
+    //sobrescrita de metodo (que esta na classe mae)
+    @Override
+    public void addCarrinhoDeCompras() {
+        System.out.println("Nutella adicionado no carrinho de compras");
+    }
+}
