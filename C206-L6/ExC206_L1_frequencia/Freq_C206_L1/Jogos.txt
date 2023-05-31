@@ -1,0 +1,32 @@
+++ Jogo ++
+Slender
+60.0
+Terror
+++ Jogo ++
+Good of War
+300.0
+Acao
+++ Jogo ++
+Mario
+40.0
+Aventura
+++ Jogo ++
+Lard
+200.0
+Acao
+++ Jogo ++
+A culpa
+200.0
+Romance
+++ Jogo ++
+alad
+100.0
+acao
+++ Jogo ++
+tho
+200.0
+acao
+++ Jogo ++
+The sims
+23.0
+ksks

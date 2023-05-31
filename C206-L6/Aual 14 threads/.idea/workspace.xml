@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07dfdde7-c3cf-4cec-8f43-8623f2c42b3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 8/Aula11_colecoes/src/EX2/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 8/Aula11_colecoes/src/EX2/Escapamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 8/Aula11_colecoes/src/EX2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 8/Aula11_colecoes/src/EX2/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 8/Aula11_colecoes/src/EX2/Volante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 8/Aula11_colecoes/src/HashSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 9/Aula13_excecoes e controle de erros/excecoes_e_coontrole_de _erros/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 9/Aula13_excecoes e controle de erros/excecoes_e_coontrole_de _erros/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicio semana 9/Aula13_excecoes e controle de erros/excecoes_e_coontrole_de _erros/src/Execption/Execptiion/SaldoInsuficientException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicios semana 10/Aula14_leitura_e_escrita_de_arquivos/Aula14_leitura_escrita_de_arquivos/professores_disciplina.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulla14_threads/src/main/java/org/example/ThreadContadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11_colecoes/Aula11_colecao/src/main/java/Exercitando/Carrinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11_colecoes/Aula11_colecao/src/main/java/Exercitando/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula11_colecoes/Aula11_colecao/src/main/java/Exercitando/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula12_Controle_de_erros/Aula12_controle_de_erros/src/main/java/org/example/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula12_Controle_de_erros/Aula12_controle_de_erros/src/main/java/org/example/SemSaldoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula13_javaIO/Aula13_javaIO/src/main/java/Exercicio1/Arquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula13_javaIO/Aula13_javaIO/src/main/java/Exercicio1/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula13_javaIO/Aula13_javaIO/src/main/java/Exercicio2/Arquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula13_javaIO/Aula13_javaIO/src/main/java/Exercicio2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula13_javaIO/Aula13_javaIO/src/main/java/Exercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicios semana 2/Conta_banco/src/Conta/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../C206-B/Exercicios das aulas/Exercicios semana 2/Conta_banco/src/Conta/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PV1_LAB/Prova1_LAB/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../PV1_LAB/Prova1_LAB/.idea/.name" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2PsP1DxGC7vWOt2ME0CvFFYiZ9k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07dfdde7-c3cf-4cec-8f43-8623f2c42b3e" name="Changes" comment="" />
+      <created>1684242601007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684242601007</updated>
+    </task>
+    <servers />
+  </component>
+</project>

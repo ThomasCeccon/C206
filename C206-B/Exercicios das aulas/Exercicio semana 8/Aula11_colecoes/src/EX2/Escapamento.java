@@ -1,2 +1,8 @@
-package EX2;public class Escapamento {
+package EX2;
+
+public class Escapamento extends Carro {
+
+    public Escapamento(String nome, int preco) {
+        super(nome, preco);
+    }
 }
