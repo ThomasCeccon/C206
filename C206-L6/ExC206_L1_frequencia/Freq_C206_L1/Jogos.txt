@@ -30,3 +30,15 @@ acao
 The sims
 23.0
 ksks
+++ Jogos ++
+GTA
+100.0
+acao
+++ Jogos ++
+call
+300.0
+acao
+++ Jogos ++
+the sims
+500.0
+simulacao

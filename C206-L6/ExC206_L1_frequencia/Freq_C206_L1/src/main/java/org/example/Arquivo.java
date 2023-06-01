@@ -1,12 +1,14 @@
 package org.example;
 
+import org.example.Jogo;
+
 import java.io.*;
 import java.util.ArrayList;
 
 public class Arquivo {
 
     // Métodos que podemos realizar com o arquivo
-    public void escrever(Jogo jogo) {
+    public void escrever(Jogo func) {
         // Instanciando os objetos que permitirão a escrita de dados
         OutputStream os = null; // fluxo de entrada
         OutputStreamWriter osw = null; //leitor de fluxo de entrada
@@ -23,10 +25,10 @@ public class Arquivo {
 
 
             // Flag que indica onde começa as informações do Funcionário
-            bw.write("++ Jogo ++\n");
-            bw.write(jogo.getNome() + "\n");
-            bw.write(jogo.getPreco() + "\n");
-            bw.write(jogo.getGenero() + "\n");
+            bw.write("++ Jogos ++\n");
+            bw.write(func.getNome() + "\n");
+            bw.write(func.getPreco() + "\n");
+            bw.write(func.getGenero() + "\n");
 
             /*
             // 1. Escrita de forma estática, ou seja, direta
@@ -51,6 +53,8 @@ public class Arquivo {
     }
 
     // 2. Método ler
+
+
     public ArrayList<Jogo> ler() {
 
         // ArrayList auxiliar para salvar funcionários encontrados no arquivo
@@ -97,6 +101,7 @@ public class Arquivo {
 
             }
         }
+
 
         return encontreiNoArquivo;
 

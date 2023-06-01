@@ -18,7 +18,7 @@ public class Main {
         Scanner entrada = new Scanner(System.in);
 
         //instanciando o objeto arquivo e jogo
-        Arquivo a = new Arquivo();
+        Arquivo a=new Arquivo();
         Jogo j = new Jogo();
 
         while (flag) {
@@ -35,6 +35,7 @@ public class Main {
                 //salvando info de jogo
                 case 1:
                     entrada.nextLine();
+
                     System.out.println("Nome do jogo");
                     j.setNome(entrada.nextLine());
                     System.out.println("Preco do jogo");
@@ -73,6 +74,7 @@ public class Main {
                     //ordem crescente
                     Collections.sort(jog);
 
+
                     for (int i = 0; i < jog.size(); i++) {
                         System.out.println("Informacoes do jogo");
                         System.out.println(jog.get(i).getNome());
@@ -82,6 +84,9 @@ public class Main {
                     break;
                 case 4:
                     ArrayList<Jogo> jogos1 = a.ler();
+
+                    //ordenar primeiro
+                    Collections.sort(jogos1);
 
                     //ordem decrescente
                     Collections.reverse(jogos1);
