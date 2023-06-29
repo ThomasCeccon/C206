@@ -10,3 +10,7 @@ Comida
 carne
 20.0
 Comida
+++ Produtoss ++
+carne
+100.0
+Higiene

@@ -42,3 +42,11 @@ acao
 the sims
 500.0
 simulacao
+++ Jogos ++
+les
+200.0
+terror
+++ Jogos ++
+fs
+400.0
+
